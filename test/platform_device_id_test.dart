@@ -2,6 +2,7 @@ import 'package:flutter/services.dart';
 import 'package:flutter_device_id/platform_device_id.dart';
 import 'package:flutter_test/flutter_test.dart';
 
+
 void main() {
   const MethodChannel channel =
       MethodChannel('com.di1shuai.flutter/platform_device_id');
