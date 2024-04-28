@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
+import 'package:flutter_device_id/platform_device_id.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:platform_device_id/platform_device_id.dart';
 
 void main() {
   const MethodChannel channel =
