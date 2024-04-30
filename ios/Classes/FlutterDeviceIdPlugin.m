@@ -8,7 +8,7 @@
 #import "flutter_device_id-Swift.h"
 #endif
 
-@implementation FlutterDeviceIdPlugin
+@implementation PlatformDeviceIdPlugin
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {
   [SwiftFlutterDeviceIdPlugin registerWithRegistrar:registrar];
 }
