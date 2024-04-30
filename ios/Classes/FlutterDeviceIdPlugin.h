@@ -1,4 +1,4 @@
 #import <Flutter/Flutter.h>
 
-@interface FlutterDeviceIdPlugin : NSObject<FlutterPlugin>
+@interface PlatformDeviceIdPlugin : NSObject<FlutterPlugin>
 @end
