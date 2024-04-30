@@ -1,4 +1,4 @@
-# platform_device_id
+# flutter_device_id
 
 get device id from android、ios
 
