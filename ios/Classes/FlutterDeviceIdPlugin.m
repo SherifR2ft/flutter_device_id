@@ -1,6 +1,6 @@
 #import "FlutterDeviceIdPlugin.h"
 #if __has_include(<flutter_device_id/flutter_device_id-Swift.h>)
-#import <platform_device_id/platform_device_id-Swift.h>
+#import <flutter_device_id/flutter_device_id-Swift.h>
 #else
 // Support project import fallback if the generated compatibility header
 // is not copied when this plugin is created as a library.
